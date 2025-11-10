@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    @apply max-w-[1320px] mx-auto
+}
